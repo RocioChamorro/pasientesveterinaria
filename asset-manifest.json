@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RocioChamorro/pasientesveterinaria.git/static/css/main.c6cedb9e.chunk.css",
+    "main.js": "/RocioChamorro/pasientesveterinaria.git/static/js/main.e582dab1.chunk.js",
+    "main.js.map": "/RocioChamorro/pasientesveterinaria.git/static/js/main.e582dab1.chunk.js.map",
+    "runtime-main.js": "/RocioChamorro/pasientesveterinaria.git/static/js/runtime-main.a4ec44d3.js",
+    "runtime-main.js.map": "/RocioChamorro/pasientesveterinaria.git/static/js/runtime-main.a4ec44d3.js.map",
+    "static/js/2.b6f5078b.chunk.js": "/RocioChamorro/pasientesveterinaria.git/static/js/2.b6f5078b.chunk.js",
+    "static/js/2.b6f5078b.chunk.js.map": "/RocioChamorro/pasientesveterinaria.git/static/js/2.b6f5078b.chunk.js.map",
+    "index.html": "/RocioChamorro/pasientesveterinaria.git/index.html",
+    "precache-manifest.ac0bcf364c704659e019c6c3e1ac4e78.js": "/RocioChamorro/pasientesveterinaria.git/precache-manifest.ac0bcf364c704659e019c6c3e1ac4e78.js",
+    "service-worker.js": "/RocioChamorro/pasientesveterinaria.git/service-worker.js",
+    "static/css/main.c6cedb9e.chunk.css.map": "/RocioChamorro/pasientesveterinaria.git/static/css/main.c6cedb9e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4ec44d3.js",
+    "static/js/2.b6f5078b.chunk.js",
+    "static/css/main.c6cedb9e.chunk.css",
+    "static/js/main.e582dab1.chunk.js"
+  ]
+}
